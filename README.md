@@ -1,0 +1,1 @@
+ArTyDi-QA is a dataset for Question Answering (QA) and Question Generation (QG) in Modern Standard Arabic (MSA), adapted from TyDiQA. It features extractive QA where models find answer spans or identify unanswerable questions, and a QG task involving formulating questions from context and answer pairs.
